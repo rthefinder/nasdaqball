@@ -1,4 +1,4 @@
-# nasdaqball ($NCIBALL)
+# Nasdaqball
 
 <img width="931" height="294" alt="Capture d’écran 2026-01-08 à 17 24 04" src="https://github.com/user-attachments/assets/0497259a-4da8-4015-9048-ea78ee590d19" />
 
